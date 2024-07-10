@@ -37,7 +37,7 @@ or of which I am the current maintainer on the [CRAN](https://cran.r-project.org
 ### Preprints
 
 7. Léo R. Belzile, Arnab Hazra, Rishikesh Yadav. *An utopic adventure in the modelling of conditional univariate and multivariate extremes*. [Code](https://github.com/lbelzile/EVA2023-data-challenge)
-8. Léo R. Belzile, Alain Desgagné, Christian Genest and Frédéric Ouimet (2024). *Normal approximations for the multivariate inverse Gaussian distribution and asymmetric kernel smoothing on $d$-dimensional half-spaces*. [Code](https://github.com/lbelzile/mig-kernel).
+8. Léo R. Belzile, Alain Desgagné, Christian Genest and Frédéric Ouimet (2024). *Normal approximations for the multivariate inverse Gaussian distribution and asymmetric kernel smoothing on d-dimensional half-spaces*. [Code](https://github.com/lbelzile/mig-kernel).
 
 ## Course webpages
 
