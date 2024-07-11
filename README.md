@@ -48,7 +48,7 @@ or of which I am the current maintainer on the [CRAN](https://cran.r-project.org
 - [MATH 60602 Analyse multidimensionnelle appliquée](https://lbelzile.github.io/multi/) [[code]](https://github.com/lbelzile/multi)
 - [Tutorial on Statistical Computing on Extremes with **R**, EVA 2023](https://lbelzile.github.io/EVA2023-Rtutorial/) [[code]](https://github.com/lbelzile/EVA2023-Rtutorial/)
 
-## Notes de cours / Course notes
+## Course notes
 
 - [MATH 80601A *Bayesian modelling*](https://lbelzile.github.io/MATH80601A) [[code]](https://github.com/lbelzile/MATH80601A)
 - [MATH 80667A *Experimental Design and Statistical Methods*](https://lbelzile.github.io/math80667a) [[code]](https://github.com/lbelzile/math80667a)
