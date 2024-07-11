@@ -41,24 +41,33 @@ or of which I am the current maintainer on the [CRAN](https://cran.r-project.org
 
 ## Course webpages
 
-- [MATH 80667A *Experimental Design and Statistical Methods*](https://edsm.rbind.io/)
-- [MATH 80601A *Bayesian Modelling*](https://lbelzile.github.io/bayesmod)
-- [MATH 60604A *Statistical Modelling*](https://lbelzile.github.io/statmod/)
-- [MATH 60604 Modélisation statistique](https://lbelzile.github.io/modstat/)
-- [MATH 60602 Analyse multidimensionnelle appliquée](https://lbelzile.github.io/multi/)
-- [Tutorial on Statistical Computing on Extremes with **R**, EVA 2023](https://lbelzile.github.io/EVA2023-Rtutorial/)
- 
+- [MATH 80667A *Experimental Design and Statistical Methods*](https://lbelzile.github.io/experimental) [[code]](https://github.com/lbelzile/experimental)
+- [MATH 80601A *Bayesian Modelling*](https://lbelzile.github.io/bayesmod) [[code]](https://github.com/lbelzile/bayesmod)
+- [MATH 60604A *Statistical Modelling*](https://lbelzile.github.io/statmod/) [[code]](https://github.com/lbelzile/statmod)
+- [MATH 60604 Modélisation statistique](https://lbelzile.github.io/modstat/) [[code]](https://github.com/lbelzile/modstat)
+- [MATH 60602 Analyse multidimensionnelle appliquée](https://lbelzile.github.io/multi/) [[code]](https://github.com/lbelzile/multi)
+- [Tutorial on Statistical Computing on Extremes with **R**, EVA 2023](https://lbelzile.github.io/EVA2023-Rtutorial/) [[code]](https://github.com/lbelzile/EVA2023-Rtutorial/)
+
 ## Notes de cours / Course notes
 
-- [MATH 80601A *Bayesian modelling*](https://lbelzile.github.io/MATH80601A)
-- [MATH 80667A *Experimental Design and Statistical Methods*](https://lbelzile.github.io/math80667a)
-- [MATH 60604 Modélisation statistique](https://lbelzile.github.io/math60604)
-- [MATH 60604A *Statistical Modelling*](https://lbelzile.github.io/math60604a)
-- [MATH 60602 Analyse multidimensionnelle appliquée](https://lbelzile.github.io/math60602)
-- [MATH 341 *Linear Models* (EPFL)](https://lbelzile.github.io/lineaRmodels)
-- [MATH 342 *Time Series* (EPFL)](https://lbelzile.github.io/timeseRies)
-- [Notes on the `texmex` package](https://lbelzile.github.io/texmexIntro/), EVA 2021
-- [Tutorial on Statistical Computing on Extremes with **R**](https://lbelzile.github.io/EVA2023-Rtutorial/)
+- [MATH 80601A *Bayesian modelling*](https://lbelzile.github.io/MATH80601A) [[code]](https://github.com/lbelzile/MATH80601A)
+- [MATH 80667A *Experimental Design and Statistical Methods*](https://lbelzile.github.io/math80667a) [[code]](https://github.com/lbelzile/math80667a)
+- [MATH 60604 Modélisation statistique](https://lbelzile.github.io/math60604) [[code]](https://github.com/lbelzile/math60604)
+- [MATH 60604A *Statistical Modelling*](https://lbelzile.github.io/math60604a) [[code]](https://github.com/lbelzile/math60604a)
+- [MATH 60602 Analyse multidimensionnelle appliquée](https://lbelzile.github.io/math60602) [[code]](https://github.com/lbelzile/math60602)
+- [MATH 341 *Linear Models* (EPFL)](https://lbelzile.github.io/lineaRmodels) [[code]](https://github.com/lbelzile/lineaRmodels)
+- [MATH 342 *Time Series* (EPFL)](https://lbelzile.github.io/timeseRies) [[code]](https://github.com/lbelzile/timeseRies)
+- [Notes on the `texmex` package](https://lbelzile.github.io/texmexIntro/), EVA 2021 [[code]](https://github.com/lbelzile/texmexIntro)
+
+
+
+## **R** packages for course material
+
+- MATH 60602 [`hecmulti`](https://github.com/lbelzile/hecmulti)
+- MATH 80667A [`hecedsm`](https://github.com/lbelzile/hecedsm)
+- MATH 60604A [`hecstatmod`](https://github.com/lbelzile/hecstatmod)
+- MATH 60604 [`hecmodstat`](https://github.com/lbelzile/hecmodstat)
+- MATH 80601A [`hecbayes`](https://github.com/lbelzile/hecbayes)
 
 <!--
 **lbelzile/lbelzile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
