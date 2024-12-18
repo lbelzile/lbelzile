@@ -33,11 +33,13 @@ or of which I am the current maintainer on the [CRAN](https://cran.r-project.org
 5.  Léo R. Belzile and Anthony C. Davison (2022). *Improved inference for risk measures of univariate extremes*, Annals of Applied Statistics, 16(3), pp. 1524–1549. [`DOI:
 10.1214/21-AOAS1555`](https://doi.org/10.1214/21-AOAS1555). [Code](https://github.com/lbelzile/hoa-extremes)
 6.  Léo R. Belzile, Christophe Dutang, Paul Northrop and Thomas Opitz (2023). *A modeler's guide to extreme value software*. Extremes,  26, pp. 595–638. [`DOI:10.1007/s10687-023-00475-9`](https://doi.org/10.1007/s10687-023-00475-9). [Code](https://github.com/lbelzile/Extremes-software-review).
+7. Léo R. Belzile, Arnab Hazra, Rishikesh Yadav. *An utopic adventure in the modelling of conditional univariate and multivariate extremes*. Extremes (2024). [`DOI:10.1007/s10687-024-00493-1`](https://doi.org/10.1007/s10687-024-00493-1) [Code](https://github.com/lbelzile/EVA2023-data-challenge)
 
 ### Preprints
 
-7. Léo R. Belzile, Arnab Hazra, Rishikesh Yadav. *An utopic adventure in the modelling of conditional univariate and multivariate extremes*. [Code](https://github.com/lbelzile/EVA2023-data-challenge)
-8. Léo R. Belzile, Alain Desgagné, Christian Genest and Frédéric Ouimet (2024). *Normal approximations for the multivariate inverse Gaussian distribution and asymmetric kernel smoothing on d-dimensional half-spaces*. [Code](https://github.com/lbelzile/mig-kernel).
+1. Léo R. Belzile, Alain Desgagné, Christian Genest and Frédéric Ouimet (2024). *Normal approximations for the multivariate inverse Gaussian distribution and asymmetric kernel smoothing on d-dimensional half-spaces*. [Code](https://github.com/lbelzile/mig-kernel).
+2. Léo Belzile and Johanna G. Nešlehová (2025). *Statistics of extremes for incomplete data, with application to lifetime and liability claim modeling*. In Handbook of Statistics of Extremes, Editors: M. de Carvalho, R. Huser, P. Naveau, B. Reich, CRC Press, 2025+. [Code](https://github.com/lbelzile/Handbook-SoE-ch31)
+
 
 ## Course webpages
 
