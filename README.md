@@ -11,7 +11,7 @@ The repositories on Github contain code for the **R** packages that I authored o
 - [`lcopula`](https://github.com/lbelzile/lcopula) - Liouville Copulas
 - [`mig`](https://github.com/lbelzile/mig) - Multivariate Inverse Gaussian Distribution
 - [`longevity`](https://github.com/lbelzile/longevity) - Statistical Methods for the Analysis of Excess Lifetimes
-- [`threshold`](https://github.com/lbelzile/threshold) - Threshold Selection Methods (✨under active development)
+- [`threshold`](https://github.com/lbelzile/threshold) - Threshold Selection Methods
 - [`mvPot`](https://github.com/lbelzile/mvPot) - Multivariate Peaks-over-Threshold Modelling for Spatial Extreme Events
 
 or of which I am the current maintainer on the [CRAN](https://cran.r-project.org/)
