@@ -37,7 +37,7 @@ or of which I am the current maintainer on the [CRAN](https://cran.r-project.org
 
 ### Preprints
 
-1. Léo R. Belzile, Alain Desgagné, Christian Genest and Frédéric Ouimet (2024). *Normal approximations for the multivariate inverse Gaussian distribution and asymmetric kernel smoothing on d-dimensional half-spaces*. [Code](https://github.com/lbelzile/mig-kernel).
+1. Léo R. Belzile, Alain Desgagné, Christian Genest and Frédéric Ouimet (2025+). *Normal approximations for the multivariate inverse Gaussian distribution and asymmetric kernel smoothing on d-dimensional half-spaces*. [Code](https://github.com/lbelzile/mig-kernel), to appear in Electronic Journal of Statistics.
 2. Léo Belzile and Johanna G. Nešlehová (2025). *Statistics of extremes for incomplete data, with application to lifetime and liability claim modeling*. In Handbook of Statistics of Extremes, Editors: M. de Carvalho, R. Huser, P. Naveau, B. Reich, CRC Press, 2025+. [Code](https://github.com/lbelzile/Handbook-SoE-ch31)
 
 
