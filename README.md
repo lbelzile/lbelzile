@@ -13,6 +13,7 @@ The repositories on Github contain code for the **R** packages that I authored o
 - [`longevity`](https://github.com/lbelzile/longevity) - Statistical Methods for the Analysis of Excess Lifetimes
 - [`threshold`](https://github.com/lbelzile/threshold) - Threshold Selection Methods
 - [`mvPot`](https://github.com/lbelzile/mvPot) - Multivariate Peaks-over-Threshold Modelling for Spatial Extreme Events
+- [`Wishart`](https://github.com/lbelzile/Wishart) - Kernel smoothing for positive definite matrices
 
 or of which I am the current maintainer on the [CRAN](https://cran.r-project.org/)
   
