@@ -35,7 +35,8 @@ or of which I am the current maintainer on the [CRAN](https://cran.r-project.org
 10.1214/21-AOAS1555`](https://doi.org/10.1214/21-AOAS1555). [Code](https://github.com/lbelzile/hoa-extremes)
 6.  Léo R. Belzile, Christophe Dutang, Paul Northrop and Thomas Opitz (2023). *A modeler's guide to extreme value software*. Extremes,  26, pp. 595–638. [`DOI:10.1007/s10687-023-00475-9`](https://doi.org/10.1007/s10687-023-00475-9). [Code](https://github.com/lbelzile/Extremes-software-review).
 7. Léo R. Belzile, Arnab Hazra, Rishikesh Yadav. *An utopic adventure in the modelling of conditional univariate and multivariate extremes*. Extremes (2024). [`DOI:10.1007/s10687-024-00493-1`](https://doi.org/10.1007/s10687-024-00493-1) [Code](https://github.com/lbelzile/EVA2023-data-challenge)
-8. Léo R. Belzile, Alain Desgagné, Christian Genest and Frédéric Ouimet (2025). *Normal approximations for the multivariate inverse Gaussian distribution and asymmetric kernel smoothing on d-dimensional half-spaces*. [Code](https://github.com/lbelzile/mig-kernel), Electronic Journal of Statistics, 19, pp. 1–54. [`DOI:10.1214/25-EJS2407](https://doi.org/10.1214/25-EJS2407)
+8. Léo R. Belzile, Alain Desgagné, Christian Genest and Frédéric Ouimet (2025). *Normal approximations for the multivariate inverse Gaussian distribution and asymmetric kernel smoothing on d-dimensional half-spaces*. [Code](https://github.com/lbelzile/mig-kernel), Electronic Journal of Statistics, 19, pp. 1–54. [`DOI:10.1214/25-EJS2407`](https://doi.org/10.1214/25-EJS2407)
+9. Léo R. Belzile (2026). *longevity: An R Package for Modelling Excess Lifetimes*, R Journal. [Code](https://github.com/lbelzile/longevity-Rjournal).
 
 ### Preprints
 
