@@ -41,7 +41,7 @@ or of which I am the current maintainer on the [CRAN](https://cran.r-project.org
 ### Preprints
 
 1. Léo Belzile and Johanna G. Nešlehová (2025). *Statistics of extremes for incomplete data, with application to lifetime and liability claim modeling*. In Handbook of Statistics of Extremes, Editors: M. de Carvalho, R. Huser, P. Naveau, B. Reich, CRC Press, 2025+. [Code](https://github.com/lbelzile/Handbook-SoE-ch31)
-
+2. Léo R. Belzile, Christian Genest, Frédéric Ouimet, Donald Richards (2025+). *Wishart kernel density estimation for strongly mixing time series on the cone of positive definite matrices*, [Code](https://github.com/FredericOuimetMcGill/WishartKDE).
 
 ## Course webpages
 
