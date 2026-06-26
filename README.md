@@ -4,7 +4,7 @@ I am an [associate professor](https://www.hec.ca/en/profs/leo.belzile.html) of s
 
 ### **R** packages
 
-The repositories on Github contain code for the **R** packages that I authored or maintain, including
+The repositories on Github contain code for the **R** packages that I (co-)authored including
 
 - [`mev`](https://github.com/lbelzile/mev) - Modelling Extreme Values
 - [`TruncatedNormal`](https://github.com/lbelzile/TruncatedNormal) - Truncated Multivariate Normal and Student Distributions
@@ -15,7 +15,7 @@ The repositories on Github contain code for the **R** packages that I authored o
 - [`mvPot`](https://github.com/lbelzile/mvPot) - Multivariate Peaks-over-Threshold Modelling for Spatial Extreme Events
 - [`ksm`](https://github.com/lbelzile/ksm) - Kernel smoothing for positive definite matrices
 
-or of which I am the current maintainer on the [CRAN](https://cran.r-project.org/)
+or those which I did not author, but for which I am the current maintainer on the [CRAN](https://cran.r-project.org/)
   
 - [`BMAmevt`](https://github.com/lbelzile/BMAmevt) - Bayesian Model Averaging for Multivariate Extremes
 - [`evt0`](https://github.com/lbelzile/evt0) - Mean of Order P, Peaks over Random Threshold Hill and High Quantile Estimates
@@ -44,6 +44,8 @@ or of which I am the current maintainer on the [CRAN](https://cran.r-project.org
 1. Léo R. Belzile and Johanna G. Nešlehová (2025). *Statistics of extremes for incomplete data, with application to lifetime and liability claim modeling*. In Handbook of Statistics of Extremes, Editors: M. de Carvalho, R. Huser, P. Naveau, B. Reich, CRC Press, 2025+. [Code](https://github.com/lbelzile/Handbook-SoE-ch31)
 2. Léo R. Belzile, Christian Genest, Frédéric Ouimet, Donald Richards (2025+). *Wishart kernel density estimation for strongly mixing time series on the cone of positive definite matrices*, [Code](https://github.com/FredericOuimetMcGill/WishartKDE).
 3. Léo R. Belzile and Anthony C. Davison. *How long should a block be?* (2026+). [Code](https://github.com/lbelzile/block-size)
+4. Léo R. Belzile and Anthony C. Davison. *Choosing the threshold in extreme value analysis* (2026+). [Code](https://github.com/lbelzile/choosing-threshold)
+
 
 ## Course webpages
 
